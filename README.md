@@ -30,7 +30,7 @@ Node版本：14
 
 #### 四、项目演示地址：
 
-https://www.bilibili.com/video/BV1VC4y1i7m4/?spm_id_from=333.999.0.0&vd_source=3a4854909d9164817f03f89e98ccf5bf
+https://www.bilibili.com/video/BV1cFyYBBE2E/?spm_id_from=333.1387.search.video_card.click&vd_source=e51e8ec2fb03314ad9fa517492a2ce94
 
 #### 五、安装教程
 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
@@ -43,7 +43,7 @@ https://www.bilibili.com/video/BV1VC4y1i7m4/?spm_id_from=333.999.0.0&vd_source=3
 
 
 ### 六、获取地址:
-#### 项目获取地址：https://www.666bear.com/4586.html
+#### 项目获取地址：https://www.666bear.com/11969.html
 #### qq 3289948684
 #### 接毕业设计和课程设计等
 #### 接网站建设、小程序、H5、APP、各种系统、样式修改等
